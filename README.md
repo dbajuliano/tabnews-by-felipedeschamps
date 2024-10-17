@@ -1,14 +1,14 @@
 # tabnews-by-felipedeschamps
 
-🔗Curso.dev: Curso de Programação - Novembro/2023  
+🔗Curso.dev: Curso de Programação - Novembro/2023
 
 Você se tornar o melhor programador que você pode ser, conseguindo programar qualquer coisa que desejar e se virando em qualquer situação que você se encontrar.  
 Além disto, eu vou ensinar você a amar o que faz e ser um adulto profissional, maduro e preparado para um ambiente de trabalho altamente sofisticado.  
 Como base para isto, não vamos trabalhar em um projeto educacional fictício que fica apenas em um ambiente controlado e que não sofre as consequências de pessoas reais utilizando-o de formas inesperada, que é justamente onde se encontram os conhecimentos mais valiosos da nossa área.  
-Você irá comigo colocar a mão na massa e reconstruir do zero um projeto que já existe e opera por conta própria, é acessado por mais de 150.000 pessoas mensalmente, sofre dos exatos problemas que projetos reais sofrem e que são os exatos conhecimentos que você precisa para criar senioridade na área.  
+Você irá comigo colocar a mão na massa e reconstruir do zero um projeto que já existe e opera por conta própria, é acessado por mais de 150.000 pessoas mensalmente, sofre dos exatos problemas que projetos reais sofrem e que são os exatos conhecimentos que você precisa para criar senioridade na área.
 
-Assista ao conteúdo para conhecer mais detalhes sobre o projeto a ser desenvolvido.  
---------
+## Assista ao conteúdo para conhecer mais detalhes sobre o projeto a ser desenvolvido.
+
 <pre>
 ├───📁 Dia 1/
 │   ├───📁 1. Bem vindo(a)!/

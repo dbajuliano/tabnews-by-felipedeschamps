@@ -1,0 +1,12 @@
+{
+  "cSpell.language": "en,pt,pt-BR,en-GB",
+  "cSpell.diagnosticLevel": "Hint",
+  "editorHint.foreground": "#f000",
+  "workbench.colorCustomizations": {
+    // will change the color of three dots to red
+    "editorHint.foreground": "#ff0000",
+
+    // will underline the entire word with dots in your chosen color
+    "editorHint.border": "#ff0000"
+  }
+}
